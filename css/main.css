@@ -136,6 +136,11 @@ h2{
 }
 /*css nav termina*/
 
+/*Aside lista items*/
+
+.izquierda {
+  float: left;
+}
 /*carrito*/
 .image{
   width:100%;
