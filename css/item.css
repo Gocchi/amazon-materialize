@@ -1,0 +1,70 @@
+/* Seccion calificaciones y opiniones*/\
+
+
+.table-condensed>tbody>tr>td, .table-condensed>tbody>tr>th, .table-condensed>tfoot>tr>td, .table-condensed>tfoot>tr>th, .table-condensed>thead>tr>td, .table-condensed>thead>tr>th {
+    padding: 0px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 0px;
+    line-height: 1.42857143;
+    vertical-align: top;
+    border-top: 1px solid transparent;
+    font-size: .9em;
+}
+
+td, th {
+    padding: 0;
+}
+
+h4, h5 {
+
+}
+
+.progress-bar {
+    float: left;
+    width: 0;
+    height: 100%;
+    font-size: 12px;
+    line-height: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #faa41a;
+    -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.15);
+    -webkit-transition: width .6s ease;
+    -o-transition: width .6s ease;
+    transition: width .6s ease;
+}
+
+.progress {
+    height: 1em;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.1);
+}
+
+#ofertas h5, #detalle-envio h5, #descripcion-item h5 {
+	color: #C60;
+
+}
+
+#ofertas, #detalle-envio, #descripcion-item {
+	font-size: 85%;
+}
+
+.naranja {
+	color: #C60;
+}
+
+#opinion-clientes button {
+	background-color: #e7e9ec;
+}
+
+#opiniones-mas-recientes {
+	float: right;
+}
